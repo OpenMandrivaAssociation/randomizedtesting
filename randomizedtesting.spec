@@ -1,3 +1,4 @@
+%{?_javapackages_macros:%_javapackages_macros}
 Name:          randomizedtesting
 Version:       2.1.3
 Release:       1%{?dist}
