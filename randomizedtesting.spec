@@ -4,7 +4,7 @@ Version:       2.1.3
 Release:       1%{?dist}
 Summary:       Java Testing Framework
 License:       ASL 2.0
-URL:           http://labs.carrotsearch.com/randomizedtesting.html
+URL:           https://labs.carrotsearch.com/randomizedtesting.html
 Source0:       https://github.com/carrotsearch/randomizedtesting/archive/release/%{version}.tar.gz
 
 BuildRequires: java-devel
