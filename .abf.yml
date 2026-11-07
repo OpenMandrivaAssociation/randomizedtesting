@@ -1,2 +1,4 @@
-sources:
+removed_sources:
   "2.1.3.tar.gz": 73a8ae334af190f202acd0e342462b766279d325
+sources:
+  randomizedtesting-2.9.2.tar.gz: f33fa1b258891914d60cec989e92181dce9ba49b
